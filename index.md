@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+طريقه تنصيب سورس MAITHAM #الجديد🙇🏻🍷
 
-You can use the [editor on GitHub](https://github.com/MAITHAM2/MAITHAM1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+تابعو التنصيب 
 
-### Markdown
+آفہٰتہٰح تہٰرمہٰنہٰآلہٰ وخہٰلہٰيے 👇🏻 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+sudo apt-get update 
 
-```markdown
-Syntax highlighted code block
+ورآهہٰآ خہٰلہٰيے 👇🏻 
 
-# Header 1
-## Header 2
-### Header 3
+redis-server
 
-- Bulleted
-- List
+عہٰوفہٰ آلہٰتہٰرمہٰنہٰآلہٰ مہٰفہٰتہٰوح ✋🏻 وآفہٰتہٰح ثہٰآنہٰيے   وخہٰليے 👇🏻 
+************************************************************
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
+➖➖➖➖➖
+ورآهہٰآ خہٰلہٰيے 👇🏻 
+➖➖➖➖➖
+git clone https://github.com/memo0/MAITHAM.git
+➖➖➖➖➖
+ورآهہٰآ خہٰلہٰيے 👇🏻
+➖➖➖➖➖
+cd MAITHAM
+➖➖➖➖➖
+ورآهہٰآ خہٰلہٰيے 👇
+➖➖➖➖➖
+chmod +x launch.sh
+➖➖➖➖➖
+ورآهہٰآ خہٰلہٰيے 👇
+➖➖➖➖➖
+./launch.sh install
+➖➖➖➖➖
+ورآهہٰآ خہٰلہٰيے 👇
+➖➖➖➖➖
+./launch.sh 
+➖➖➖➖➖
+يطلب رقم خلي رقم البوت ✋🏿😘
+مبروك عليك افضل بوت 😍
 
-1. Numbered
-2. List
+بعدها افتح ترمنال جديد واكتب👇
+➖➖➖➖➖➖
+sudo service redis-server start
+➖➖➖➖➖➖
+- ودوس انتر
+- وسوي رن من ملف لانج
+- بعد متسوي رن افتح ترمنال جديد واكتب
+➖➖➖➖➖➖
+cd MAITHAM
+➖➖➖➖➖➖
+- انتر وبعدها هل امر
+bash cd MAITHAM.sh -t
 
-**Bold** and _Italic_ and `Code` text
+- انتظر 5 ثواني يشتغل بوت
+هذا ملف يقلل وكفات بوت
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MAITHAM2/MAITHAM1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+المطور @MAITHAMO_O
+تواصل @MAITHAMO_Obot
